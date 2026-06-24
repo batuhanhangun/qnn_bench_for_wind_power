@@ -1,0 +1,17 @@
+\begin{table}[htbp]
+\centering
+\caption{QNN test $R^2$ (mean $\pm$ std, $n=10$ seeds) under gate-level depolarizing noise. Bold row is the noise-free baseline.}
+\label{tab:noise_robustness}
+\begin{tabular}{ccccc}
+\toprule
+Noise $p$ & $N=800$ & $N=1600$ & $N=2400$ & $N=3200$ \\
+\midrule
+\textbf{0 (ideal)} & \textbf{0.8978 $\pm$ 0.0156} & \textbf{0.8992 $\pm$ 0.0150} & \textbf{0.8982 $\pm$ 0.0148} & \textbf{0.8970 $\pm$ 0.0162} \\
+0.001 & 0.8873 $\pm$ 0.0136 & 0.8887 $\pm$ 0.0131 & 0.8872 $\pm$ 0.0130 & 0.8861 $\pm$ 0.0146 \\
+0.005 & 0.7961 $\pm$ 0.0150 & 0.7986 $\pm$ 0.0141 & 0.7947 $\pm$ 0.0142 & 0.7941 $\pm$ 0.0150 \\
+0.01 & 0.6170 $\pm$ 0.0274 & 0.6215 $\pm$ 0.0259 & 0.6147 $\pm$ 0.0273 & 0.6152 $\pm$ 0.0268 \\
+0.02 & 0.2107 $\pm$ 0.0529 & 0.2184 $\pm$ 0.0511 & 0.2079 $\pm$ 0.0558 & 0.2103 $\pm$ 0.0548 \\
+0.05 & -0.5616 $\pm$ 0.0664 & -0.5557 $\pm$ 0.0617 & -0.5641 $\pm$ 0.0713 & -0.5617 $\pm$ 0.0717 \\
+\bottomrule
+\end{tabular}
+\end{table}

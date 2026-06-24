@@ -1,0 +1,221 @@
+Wilcoxon Signed-Rank Tests: Noisy vs Noise-Free (p=0)
+============================================================
+
+NOTE: n=10 paired samples. Min two-sided p-value = 0.0020
+
+============================================================
+Train size = 800
+============================================================
+
+Noise p = 0.001
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8978
+  Noisy mean R²:          0.8873
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+Noise p = 0.005
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8978
+  Noisy mean R²:          0.7961
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+Noise p = 0.01
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8978
+  Noisy mean R²:          0.6170
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+Noise p = 0.02
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8978
+  Noisy mean R²:          0.2107
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+Noise p = 0.05
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8978
+  Noisy mean R²:          -0.5616
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+============================================================
+Train size = 1600
+============================================================
+
+Noise p = 0.001
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8992
+  Noisy mean R²:          0.8887
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+Noise p = 0.005
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8992
+  Noisy mean R²:          0.7986
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+Noise p = 0.01
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8992
+  Noisy mean R²:          0.6215
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+Noise p = 0.02
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8992
+  Noisy mean R²:          0.2184
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+Noise p = 0.05
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8992
+  Noisy mean R²:          -0.5557
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+============================================================
+Train size = 2400
+============================================================
+
+Noise p = 0.001
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8982
+  Noisy mean R²:          0.8872
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+Noise p = 0.005
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8982
+  Noisy mean R²:          0.7947
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+Noise p = 0.01
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8982
+  Noisy mean R²:          0.6147
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+Noise p = 0.02
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8982
+  Noisy mean R²:          0.2079
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+Noise p = 0.05
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8982
+  Noisy mean R²:          -0.5641
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+============================================================
+Train size = 3200
+============================================================
+
+Noise p = 0.001
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8970
+  Noisy mean R²:          0.8861
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+Noise p = 0.005
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8970
+  Noisy mean R²:          0.7941
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+Noise p = 0.01
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8970
+  Noisy mean R²:          0.6152
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+Noise p = 0.02
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8970
+  Noisy mean R²:          0.2103
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+
+Noise p = 0.05
+----------------------------------------
+  Pairs: 10
+  Baseline (p=0) mean R²: 0.8970
+  Noisy mean R²:          -0.5617
+  Statistic: 0.0000
+  P-value:   0.001953
+  Significant at 0.05: True
+  Significant at 0.01: True
+

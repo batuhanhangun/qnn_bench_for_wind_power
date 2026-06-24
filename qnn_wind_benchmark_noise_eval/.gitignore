@@ -1,0 +1,12 @@
+# Regenerable data splits — recreate with: python -m src.generate_splits --all
+data/seed_*/
+
+# Dataset is committed once at the repository root (../data/total_dataset.xlsx);
+# copy it here before running locally or on HPC.
+data/total_dataset.xlsx
+
+# HPC job logs
+slurm/logs/
+
+# The noise results (results/) and aggregated deliverables (aggregated/) ARE
+# tracked here on purpose — they back the noise figures/tables in the paper.
