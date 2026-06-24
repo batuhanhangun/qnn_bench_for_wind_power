@@ -1,0 +1,9 @@
+/results/
+/aggregated/
+data/seed_*/
+__pycache__/
+*.pyc
+.venv/
+venv/
+slurm/logs/
+*.log
